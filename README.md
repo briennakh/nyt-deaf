@@ -1,0 +1,25 @@
+## Phrases
+
+- deaf and dumb
+	- deaf dumb
+- deaf mute
+	- deaf and mute
+	- mute deaf
+	- mute and deaf
+- fell on deaf ears
+   	- fall on deaf ears
+   	- falls on deaf ears
+   	- fall on a deaf ear
+   	- falling on deaf ears
+   	- falling on a deaf ear
+   	- turn a deaf ear
+   	- turned deaf ears
+   	- turned a deaf ear
+   	- turning deaf ears
+   	- turning a deaf ear
+- hearing impaired
+ 	- hearing impairment
+- tone deaf
+- deaf as a post
+- stone deaf
+- deaf (excluding all of the above terms containing "deaf")
